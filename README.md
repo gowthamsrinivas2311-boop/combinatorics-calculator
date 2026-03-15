@@ -34,7 +34,7 @@ Combinations (nCr) = 10
 Run the Python file:
 
 ```
-python combinatorics.py
+combinatorics_calculator.py
 ```
 
 ## Tech Stack
